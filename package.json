@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/patel-anshuman/mock-server-app#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "json-server": "^0.17.3"
   }
 }
